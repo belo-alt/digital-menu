@@ -55,3 +55,18 @@ main {
     color: #333;
     font-weight: bold;
 }
+
+.whatsapp-button {
+    background-color: #25D366;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .whatsapp-button:hover {
+    background-color: #1DA851;
+  }
